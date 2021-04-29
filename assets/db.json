@@ -1,0 +1,96 @@
+{
+  "Clases": [
+    {
+      "id": 1,
+      "nombre": "Paladin",
+      "subclase": "Semi-Guerrera"
+    },
+    {
+      "id": 2,
+      "nombre": "Mago",
+      "subclase": "Magica"
+    },
+    {
+      "nombre": "Nigromante",
+      "subclase": "Semi-Magica",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Bardo",
+      "subclase": "Semi-Magica"
+    },
+    {
+      "id": 5,
+      "nombre": "Guerrero",
+      "subclase": "Guerrera"
+    },
+    {
+      "id": 6,
+      "nombre": "Clerigo",
+      "subclase": "Semi-Guerrera"
+    },
+    {
+      "nombre": "Druida",
+      "subclase": "Semi-Magica",
+      "id": 7
+    },
+    {
+      "nombre": "Berseker",
+      "subclase": "Semi-Guerrera",
+      "id": 8
+    },
+    {
+      "nombre": "Sacerdote",
+      "subclase": "Magica",
+      "id": 9
+    },
+    {
+      "nombre": "Asesino",
+      "subclase": "Semi-Guerrera",
+      "id": 10
+    },
+    {
+      "nombre": "Mercenario",
+      "subclase": "Guerrera",
+      "id": 11
+    },
+    {
+      "nombre": "Guerrero",
+      "subclase": "Guerrera",
+      "id": 12
+    },
+    {
+      "nombre": "Monje",
+      "subclase": "Magica",
+      "id": 13
+    }
+  ],
+  "Dungeons": [
+    {
+      "id": 1,
+      "nombre": "Dungeon Farzhe",
+      "ciudad cercana": "Rinkel"
+    },
+    {
+      "id": 2,
+      "nombre": "Dungeon Veril",
+      "ciudad cercana": "Nueva Esperanza"
+    },
+    {
+      "id": 3,
+      "nombre": "Dungeon Cristal",
+      "ciudad cercana": "Tiama"
+    },
+    {
+      "id": 4,
+      "nombre": "Dungeon Zero",
+      "ciudad cercana": "Arghal"
+    },
+    {
+      "id": 5,
+      "nombre": "Templo Kalat",
+      "ciudad cercana": "Isla Siniestra"
+    }
+  ]
+}
